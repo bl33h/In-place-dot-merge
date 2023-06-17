@@ -1,1 +1,1 @@
-# In-place-dot-merge
+# inPlaceDotMerge
